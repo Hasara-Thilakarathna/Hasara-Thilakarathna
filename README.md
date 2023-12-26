@@ -14,7 +14,7 @@
 🚀 I'm currently honing my skills and knowledge in the realm of programming, software design, and problem-solving.
 
 - 🎓 Graduated from University of Peradeniya.
-- 💻 Learning and mastering `Java`, `JavaFX`, `Jasper Rports`, `Emmet`, `Bootstrap`, `MySQL`, `PostgreSQL`,`HTML`, `CSS`,`Java EE`,`JavaScript`.
+- 💻 Learning and mastering `Java`, `Spring`,`JavaScript` ,`Reactjs`, `Angular`, `Bootstrap`,`TailwindCSS`, `MySQL`, `PostgreSQL`,`HTML5`, `CSS3`,`Java EE`,`JavaFX`, `Jasper Rports`, `Emmet`.
 - 🌐 Exploring web development, mobile app development, and beyond.
 - 📚 Continuous self-improvement and staying up-to-date with industry trends.
 
