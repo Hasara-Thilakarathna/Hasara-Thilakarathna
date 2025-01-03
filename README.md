@@ -9,7 +9,7 @@
 
 ### 👧 About Me :
 
-👋 Hello there! I'm Hasara Thilakarathna, a passionate and dedicated trainee software engineer on a journey to learn and grow in the world of software development.
+👋 Hello there! I'm Hasara Thilakarathna, a passionate and dedicated software engineer on a journey to learn and grow in the world of software development.
 
 🚀 I'm currently honing my skills and knowledge in the realm of programming, software design, and problem-solving.
 
